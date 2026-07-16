@@ -1,3 +1,4 @@
 <Solution>
+  <Project Path="waScrapperAN.Tests/waScrapperAN.Tests.csproj" />
   <Project Path="waScrapperAN/waScrapperAN.csproj" />
 </Solution>
